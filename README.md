@@ -1,6 +1,10 @@
-## Birthday card for my pooks
+# Birthday card for my pooks
 
-Custom birthday card with dialouge
+Custom birthday card with dialouge, made using react + vite in WSL.
+To edit in WSL, install npm, node.js, and vite through: https://learn.microsoft.com/en-us/windows/dev-environment/javascript/react-on-wsl and https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl
+
+
+
 
 
 
