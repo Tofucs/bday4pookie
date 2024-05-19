@@ -112,7 +112,7 @@ function App() {
           click the text!
         </p> :
         <p className="button-text">
-          i love u my orange cat :3
+          i love u my black cat :3
         </p>}
     </div>
   )
